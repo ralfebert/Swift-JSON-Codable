@@ -1,0 +1,8 @@
+{
+    "name": "Bob",
+    "age": 32,
+    "phone": [
+        { "type": "Handy", "number": "0123-456789" },
+        { "type": "Festnetz", "number": "040-456789" }
+    ]
+}
